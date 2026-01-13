@@ -1,0 +1,12 @@
+{
+  "name": "logger-platform",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "@your-scope/kafka-logger": "^1.0.0"
+  }
+}
